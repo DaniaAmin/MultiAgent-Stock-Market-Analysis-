@@ -1,0 +1,7 @@
+streamlit==1.28.1
+yfinance==0.2.18
+duckduckgo-search==4.1.1
+pandas==2.1.3
+numpy==1.25.2
+python-dotenv==1.0.0
+requests==2.31.0 
