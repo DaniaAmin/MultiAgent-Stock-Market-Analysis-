@@ -192,6 +192,6 @@ This application is for educational and research purposes only. The financial an
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Dania Amin Khan]**
 
 *Built for the future of AI-powered financial analysis* 
